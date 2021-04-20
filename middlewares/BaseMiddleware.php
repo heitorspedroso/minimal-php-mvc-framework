@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace heitorspedroso\minimalphpmvcframework\middlewares;
 
 
 abstract class BaseMiddleware {

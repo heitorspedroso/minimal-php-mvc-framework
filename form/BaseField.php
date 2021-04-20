@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace heitorspedroso\minimalphpmvcframework\form;
 
 
-use app\core\Model;
+use heitorspedroso\minimalphpmvcframework\Model;
 
 abstract class BaseField {
 

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\core;
+namespace heitorspedroso\minimalphpmvcframework;
 
 
 /**
  * Class Request
- * @package app\core
+ * @package heitorspedroso\minimalphpmvcframework
  * @author Heitor
  */
 class Request {

@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core;
+namespace heitorspedroso\minimalphpmvcframework;
 
-use app\core\exception\NotFoundException;/**
+use heitorspedroso\minimalphpmvcframework\exception\NotFoundException;/**
  * Class Router
  * @author Heitor Sousa <heitorspedroso@gmail.com>
- *@package app\core
+ *@package heitorspedroso\minimalphpmvcframework
  */
 class Router {
 
@@ -50,7 +50,7 @@ class Router {
 		if (is_array($callback)) {
 
 			/**
-			 * @var \app\core\Controller $controller
+			 * @var \heitorspedroso\minimalphpmvcframework\Controller $controller
 			 */
 			$controller = new $callback[0];
 			$controller->action = $callback[1];

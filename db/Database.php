@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace heitorspedroso\minimalphpmvcframework\db;
 
 
-use app\core\Application;
+use heitorspedroso\minimalphpmvcframework\Application;
 
 class Database {
 	public \PDO $pdo;

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace heitorspedroso\minimalphpmvcframework\form;
 
 
 class TextareaField extends BaseField {

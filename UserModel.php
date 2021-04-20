@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace heitorspedroso\minimalphpmvcframework;
 
 
-use app\core\db\DbModel;
+use heitorspedroso\minimalphpmvcframework\db\DbModel;
 
 abstract class UserModel extends DbModel {
 	abstract public function getDisplayName(): string;

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace heitorspedroso\minimalphpmvcframework;
 
 
-use app\core\middlewares\BaseMiddleware;
+use heitorspedroso\minimalphpmvcframework\middlewares\BaseMiddleware;
 
 class Controller {
 	public string $layout = 'main';

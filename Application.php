@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core;
+namespace heitorspedroso\minimalphpmvcframework;
 
-use app\core\db\Database;/**
+use heitorspedroso\minimalphpmvcframework\db\Database;/**
  * Class Application
  * @author Heitor Sousa <heitorspedroso@gmail.com>
- *@package app\core
+ *@package heitorspedroso\minimalphpmvcframework
  */
 class Application {
 

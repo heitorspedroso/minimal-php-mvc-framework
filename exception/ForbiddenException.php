@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace heitorspedroso\minimalphpmvcframework\exception;
 
 
 class ForbiddenException extends \Exception {
