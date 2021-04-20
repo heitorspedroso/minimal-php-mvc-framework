@@ -1,0 +1,10 @@
+{
+    "name": "heitorspedroso/minimal-php-mvc-framework",
+    "authors": [
+        {
+            "name": "Heitor",
+            "email": "heitorspedroso@gmail.com"
+        }
+    ],
+    "require": {}
+}
